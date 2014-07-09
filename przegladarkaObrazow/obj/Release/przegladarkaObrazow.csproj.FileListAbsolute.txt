@@ -1,0 +1,14 @@
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\bin\Release\przegladarkaObrazow.exe.config
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\bin\Release\przegladarkaObrazow.exe
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\bin\Release\przegladarkaObrazow.pdb
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\obj\Release\przegladarkaObrazow.Form1.resources
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\obj\Release\przegladarkaObrazow.Properties.Resources.resources
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\obj\Release\przegladarkaObrazow.csproj.GenerateResource.Cache
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\obj\Release\przegladarkaObrazow.exe
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\obj\Release\przegladarkaObrazow.pdb
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\obj\Release\przegladarkaObrazow.csprojResolveAssemblyReference.cache
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\bin\Release\przegladarkaObrazow.exe.manifest
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\bin\Release\przegladarkaObrazow.application
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\obj\Release\przegladarkaObrazow.TrustInfo.xml
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\obj\Release\przegladarkaObrazow.exe.manifest
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\obj\Release\przegladarkaObrazow.application

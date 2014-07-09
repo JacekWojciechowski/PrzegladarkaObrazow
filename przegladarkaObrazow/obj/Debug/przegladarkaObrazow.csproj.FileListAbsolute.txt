@@ -1,0 +1,9 @@
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\bin\Debug\przegladarkaObrazow.exe.config
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\obj\Debug\przegladarkaObrazow.csprojResolveAssemblyReference.cache
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\obj\Debug\przegladarkaObrazow.Form1.resources
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\obj\Debug\przegladarkaObrazow.Properties.Resources.resources
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\obj\Debug\przegladarkaObrazow.csproj.GenerateResource.Cache
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\bin\Debug\przegladarkaObrazow.exe
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\bin\Debug\przegladarkaObrazow.pdb
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\obj\Debug\przegladarkaObrazow.exe
+D:\JACA\C#\przegladarkaObrazow\przegladarkaObrazow\obj\Debug\przegladarkaObrazow.pdb
